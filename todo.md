@@ -2,16 +2,15 @@ Assets
 
 
 Videos
-*Find a Video Editor
-*Philosophy
-	OODA for this project
-		-Set our enemies for this Project
-		-Do OODA over those enemies.
+* Review Hiring Rick
+* Review Ricardo's work
+* Review Cloud9
 	
 Future Work
-Find a Personal Assistant
-	Create a job on Odesk
-	
+* Build a Subscription Service for MPH videos.
+     * $9.99 using stripe for access to videos
+* Codify some of the philosopy into some lessons learned videos
+	 
 ##Job Descripton
 * Write the Ad with a focus on programming.
 
