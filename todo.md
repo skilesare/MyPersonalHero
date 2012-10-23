@@ -2,9 +2,8 @@ Assets
 
 
 Videos
-* Review Hiring Rick
-* Review Ricardo's work
-* Review Cloud9
+* Codify what we learned
+* OODA Loop redux
 	
 Future Work
 * Build a Subscription Service for MPH videos.
