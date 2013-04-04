@@ -1,5 +1,5 @@
 Assets
-
+* Have Ricardo Set up our subscription service
 
 Videos
 * Codify what we learned
@@ -7,7 +7,7 @@ Videos
 	
 Future Work
 * Build a Subscription Service for MPH videos.
-     * $9.99 using stripe for access to videos
+     * $29.99 using stripe for access to videos and PDF
 * Codify some of the philosopy into some lessons learned videos
 	 
 ##Job Descripton
